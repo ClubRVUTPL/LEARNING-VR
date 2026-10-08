@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "565928609924",
+    "firebase_url": "https://test-abcbb-default-rtdb.firebaseio.com",
+    "project_id": "test-abcbb",
+    "storage_bucket": "test-abcbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565928609924:android:c803e36c21f2895d2c1ad1",
+        "android_client_info": {
+          "package_name": "com.UTPL.TEST"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDqkFIGRUbL2ekisMj-ccd0LL88FzTvR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

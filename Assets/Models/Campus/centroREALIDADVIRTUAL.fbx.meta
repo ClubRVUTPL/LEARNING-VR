@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: e370b8c0183988e4da56420e8433ffac
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Columnas
+    100004: fondo
+    100006: mesa
+    100008: pantalls
+    100010: ParedesExteriores
+    100012: ParedesExteriorSalas
+    100014: paredesInternas
+    100016: Piso
+    100018: pisoHall
+    100020: podio
+    100022: Puertas
+    100024: PuertasCristal
+    100026: sillas
+    100028: ventanaExterior
+    400000: //RootNode
+    400002: Columnas
+    400004: fondo
+    400006: mesa
+    400008: pantalls
+    400010: ParedesExteriores
+    400012: ParedesExteriorSalas
+    400014: paredesInternas
+    400016: Piso
+    400018: pisoHall
+    400020: podio
+    400022: Puertas
+    400024: PuertasCristal
+    400026: sillas
+    400028: ventanaExterior
+    2100000: Material.003
+    2100002: paredesMadera
+    2100004: Material.005
+    2100006: Material.004
+    2100008: paredesInternas
+    2100010: piso
+    2100012: ParedesExternas2
+    2100014: pantallas
+    2100016: Cristal
+    2100018: ParedesExternas
+    2100020: pisoExterior
+    2300000: Columnas
+    2300002: fondo
+    2300004: mesa
+    2300006: pantalls
+    2300008: ParedesExteriores
+    2300010: ParedesExteriorSalas
+    2300012: paredesInternas
+    2300014: Piso
+    2300016: pisoHall
+    2300018: podio
+    2300020: Puertas
+    2300022: PuertasCristal
+    2300024: sillas
+    2300026: ventanaExterior
+    3300000: Columnas
+    3300002: fondo
+    3300004: mesa
+    3300006: pantalls
+    3300008: ParedesExteriores
+    3300010: ParedesExteriorSalas
+    3300012: paredesInternas
+    3300014: Piso
+    3300016: pisoHall
+    3300018: podio
+    3300020: Puertas
+    3300022: PuertasCristal
+    3300024: sillas
+    3300026: ventanaExterior
+    4300000: sillas
+    4300002: fondo
+    4300004: podio
+    4300006: mesa
+    4300008: paredesInternas
+    4300010: Piso
+    4300012: Columnas
+    4300014: ParedesExteriorSalas
+    4300016: pantalls
+    4300018: ParedesExteriores
+    4300020: Puertas
+    4300022: ventanaExterior
+    4300024: pisoHall
+    4300026: PuertasCristal
+    6400000: Columnas
+    6400002: fondo
+    6400004: mesa
+    6400006: pantalls
+    6400008: ParedesExteriores
+    6400010: ParedesExteriorSalas
+    6400012: paredesInternas
+    6400014: Piso
+    6400016: pisoHall
+    6400018: podio
+    6400020: Puertas
+    6400022: PuertasCristal
+    6400024: sillas
+    6400026: ventanaExterior
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1851 @@
+<DatasmithUnrealScene>
+	<Version>0.24</Version>
+	<SDKVersion>4.27.2</SDKVersion>
+	<Host>Autodesk 3dsmax 22.0.757Scanline Renderer</Host>
+	<Application Vendor="Autodesk" ProductName="3dsmax" ProductVersion="22.0.757"/>
+	<ResourcePath></ResourcePath>
+	<User ID="76651ecb462b51d2303a62b363566b09" OS="Windows 8"/>
+	<StaticMesh name="14704" label="RailClone003">
+		<file path="radtypesremastered_Assets/14704.udsmesh"/>
+		<Size a="126308.21875" x="308.96225" y="5039.922852" z="792.918823"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fd11d648363386b24138f808c4155570"/>
+		<Material id="1" name="CRN_V_N_Material_Persian_OTHER_3"/>
+		<Material id="2" name="CRN_V_N_Material_Persian_OTHER_4"/>
+		<Material id="3" name="CRN_V_N_Material_Persian_OTHER_2"/>
+		<Material id="4" name="CRN_Material__2"/>
+	</StaticMesh>
+	<StaticMesh name="21688" label="Shape004_001">
+		<file path="radtypesremastered_Assets/21688.udsmesh"/>
+		<Size a="887303.5625" x="2040.0" y="10.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3451b3984fe68721c9c5d3ddfed8f639"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21689" label="Shape004_002">
+		<file path="radtypesremastered_Assets/21689.udsmesh"/>
+		<Size a="1526000.0" x="200.0" y="10.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="81eb710e1cb4ce7daa67d1c9130fb5f0"/>
+		<Material id="1" name="CRN_black_and_white_pavement_25_69_diffuse"/>
+	</StaticMesh>
+	<StaticMesh name="21690" label="Shape004_003">
+		<file path="radtypesremastered_Assets/21690.udsmesh"/>
+		<Size a="3789000.0" x="1620.0" y="5.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7ae56d7e8d163fb9b73361eb3057d8a7"/>
+		<Material id="1" name="CRN_V_N_Grass_36"/>
+	</StaticMesh>
+	<StaticMesh name="21691" label="Shape004_004">
+		<file path="radtypesremastered_Assets/21691.udsmesh"/>
+		<Size a="5593416.5" x="2040.0" y="57.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e52147b2af53c86e74cff3780069d12"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21692" label="Shape004_005">
+		<file path="radtypesremastered_Assets/21692.udsmesh"/>
+		<Size a="16392208.0" x="2040.0" y="57.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="54f6b1ebaee5a98f45bb40c09bb60398"/>
+		<Material id="1" name="CRN_Material__258"/>
+	</StaticMesh>
+	<StaticMesh name="21693" label="Shape004_006">
+		<file path="radtypesremastered_Assets/21693.udsmesh"/>
+		<Size a="1526000.0" x="200.0" y="10.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b07e091c5712e6eeac35bf85d71e1bf9"/>
+		<Material id="1" name="CRN_Material__263"/>
+	</StaticMesh>
+	<StaticMesh name="21694" label="Rectangle001_001">
+		<file path="radtypesremastered_Assets/21694.udsmesh"/>
+		<Size a="17368682.0" x="2040.0" y="40.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b3c66a8732b1e702eb2b483a7e2e3cd7"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21695" label="Rectangle001_002">
+		<file path="radtypesremastered_Assets/21695.udsmesh"/>
+		<Size a="39600.0" x="2040.0" y="40.0" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="24e793fb27c1572fab5f6145d6e68855"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21696" label="RailClone002_001">
+		<file path="radtypesremastered_Assets/21696.udsmesh"/>
+		<Size a="75375.0" x="765.0" y="5000.0" z="0.000214"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea76096ac3ff1854640480adef2d35ba"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21697" label="RailClone001_001">
+		<file path="radtypesremastered_Assets/21697.udsmesh"/>
+		<Size a="20040.0" x="12.0" y="4900.0" z="0.00021"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="913b4b1fe24e9e46f6ea45faa034c291"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="20572" label="RailClone004">
+		<file path="radtypesremastered_Assets/20572.udsmesh"/>
+		<Size a="126308.21875" x="308.96225" y="5039.922852" z="792.918823"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6116413e38e81dd2352962c8aa05e336"/>
+		<Material id="1" name="CRN_V_N_Material_Persian_OTHER_3"/>
+		<Material id="2" name="CRN_V_N_Material_Persian_OTHER_4"/>
+		<Material id="3" name="CRN_V_N_Material_Persian_OTHER_2"/>
+		<Material id="4" name="CRN_Material__2"/>
+	</StaticMesh>
+	<StaticMesh name="21698" label="Rectangle006_001">
+		<file path="radtypesremastered_Assets/21698.udsmesh"/>
+		<Size a="20380682.0" x="2440.0" y="40.000004" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ceb433375a6ae2e1c197fdbd840661cc"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21699" label="Rectangle006_002">
+		<file path="radtypesremastered_Assets/21699.udsmesh"/>
+		<Size a="47600.003906" x="2440.0" y="40.000004" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="100784bb9f389d004cb2ac7799162aad"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21700" label="Shape005_001">
+		<file path="radtypesremastered_Assets/21700.udsmesh"/>
+		<Size a="2099880.75" x="2440.0" y="20.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0af53b5376d226dcb33f5be10ef07e49"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21701" label="Shape005_002">
+		<file path="radtypesremastered_Assets/21701.udsmesh"/>
+		<Size a="3789000.0" x="1620.0" y="5.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="08a19bcbb44eaeb2d0b54042a995cec0"/>
+		<Material id="1" name="CRN_V_N_Grass_36"/>
+	</StaticMesh>
+	<StaticMesh name="21702" label="Shape005_003">
+		<file path="radtypesremastered_Assets/21702.udsmesh"/>
+		<Size a="2577000.0" x="2020.0" y="10.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5ac702a2474cb29903e72756e5927f44"/>
+		<Material id="1" name="CRN_sfiubccb_2K_Albedo"/>
+	</StaticMesh>
+	<StaticMesh name="21703" label="Shape005_004">
+		<file path="radtypesremastered_Assets/21703.udsmesh"/>
+		<Size a="2577000.0" x="2420.0" y="10.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f54ca26e3456c9b8b4d5783f5183281e"/>
+		<Material id="1" name="CRN_black_and_white_pavement_25_69_diffuse"/>
+	</StaticMesh>
+	<StaticMesh name="21704" label="Shape005_005">
+		<file path="radtypesremastered_Assets/21704.udsmesh"/>
+		<Size a="5944133.0" x="2440.0" y="60.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2a40e6428040e53d439a9ef641f02b75"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21705" label="Shape005_006">
+		<file path="radtypesremastered_Assets/21705.udsmesh"/>
+		<Size a="15853281.0" x="2440.0" y="60.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="81ceadee45657d60f8bebe7c048fb67d"/>
+		<Material id="1" name="CRN_Material__258"/>
+	</StaticMesh>
+	<StaticMesh name="21706" label="RailClone007_001">
+		<file path="radtypesremastered_Assets/21706.udsmesh"/>
+		<Size a="20040.0" x="12.0" y="4900.0" z="0.00021"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="913b4b1fe24e9e46f6ea45faa034c291"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21707" label="RailClone008_001">
+		<file path="radtypesremastered_Assets/21707.udsmesh"/>
+		<Size a="75375.0" x="765.0" y="5000.0" z="0.000214"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea76096ac3ff1854640480adef2d35ba"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21718" label="Rectangle012_001">
+		<file path="radtypesremastered_Assets/21718.udsmesh"/>
+		<Size a="17548742.0" x="1940.0" y="57.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea4158177546798d887abb7473b0ba71"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21719" label="Rectangle012_002">
+		<file path="radtypesremastered_Assets/21719.udsmesh"/>
+		<Size a="52890.0" x="1940.0" y="57.0" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0dd99d8eb002fa85edd9daf6f6392c28"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21720" label="Shape006_001">
+		<file path="radtypesremastered_Assets/21720.udsmesh"/>
+		<Size a="2552711.0" x="1940.0" y="27.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5411ba366a1d8c07532a7abdc7f8411d"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21721" label="Shape006_002">
+		<file path="radtypesremastered_Assets/21721.udsmesh"/>
+		<Size a="2451900.0" x="380.0" y="10.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6e92f899d3b0d1ce5fd871aceccb1309"/>
+		<Material id="1" name="CRN_V_N_Grass_36"/>
+	</StaticMesh>
+	<StaticMesh name="21722" label="Shape006_003">
+		<file path="radtypesremastered_Assets/21722.udsmesh"/>
+		<Size a="17383088.0" x="1940.0" y="67.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="399591dd3a032d0958557c3ba6b40ec5"/>
+		<Material id="1" name="CRN_Material__258"/>
+	</StaticMesh>
+	<StaticMesh name="21723" label="Shape006_004">
+		<file path="radtypesremastered_Assets/21723.udsmesh"/>
+		<Size a="6855916.5" x="1940.0" y="67.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="80398b92f7b681fc457f6027c6aef75c"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21724" label="Shape006_005">
+		<file path="radtypesremastered_Assets/21724.udsmesh"/>
+		<Size a="2577000.0" x="1920.0" y="10.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ebc64b7a6eb8c1e87067bf14f640b24d"/>
+		<Material id="1" name="CRN_black_and_white_pavement_25_69_diffuse"/>
+	</StaticMesh>
+	<StaticMesh name="21099" label="RailClone006">
+		<file path="radtypesremastered_Assets/21099.udsmesh"/>
+		<Size a="128564.578125" x="299.058746" y="5040.296875" z="792.918823"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ec72058068a610ff1b7cfc5f9febaf9b"/>
+		<Material id="1" name="CRN_V_N_Material_Persian_OTHER_3"/>
+		<Material id="2" name="CRN_V_N_Material_Persian_OTHER_4"/>
+		<Material id="3" name="CRN_V_N_Material_Persian_OTHER_2"/>
+		<Material id="4" name="CRN_Material__2"/>
+	</StaticMesh>
+	<StaticMesh name="21055" label="RailClone005">
+		<file path="radtypesremastered_Assets/21055.udsmesh"/>
+		<Size a="126308.21875" x="308.96225" y="5039.922852" z="792.918823"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="32ee21917a29c0b4285c26e813e72ae6"/>
+		<Material id="1" name="CRN_V_N_Material_Persian_OTHER_3"/>
+		<Material id="2" name="CRN_V_N_Material_Persian_OTHER_4"/>
+		<Material id="3" name="CRN_V_N_Material_Persian_OTHER_2"/>
+		<Material id="4" name="CRN_Material__2"/>
+	</StaticMesh>
+	<StaticMesh name="21708" label="Rectangle009_001">
+		<file path="radtypesremastered_Assets/21708.udsmesh"/>
+		<Size a="17368682.0" x="2040.0" y="40.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c0b8695ba3b219b1c5bf42709cd972dc"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21709" label="Rectangle009_002">
+		<file path="radtypesremastered_Assets/21709.udsmesh"/>
+		<Size a="39600.0" x="2040.0" y="40.0" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="51da3585e235e36d5b287ba49fcdb567"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21710" label="Shape009_001">
+		<file path="radtypesremastered_Assets/21710.udsmesh"/>
+		<Size a="887303.5625" x="2040.0" y="10.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3451b3984fe68721c9c5d3ddfed8f639"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21711" label="Shape009_002">
+		<file path="radtypesremastered_Assets/21711.udsmesh"/>
+		<Size a="1551000.0" x="2020.0" y="10.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7b0df454875378d5ec848bc59472f8cc"/>
+		<Material id="1" name="CRN_black_and_white_pavement_25_69_diffuse"/>
+	</StaticMesh>
+	<StaticMesh name="21712" label="Shape009_003">
+		<file path="radtypesremastered_Assets/21712.udsmesh"/>
+		<Size a="3789000.0" x="1620.0" y="5.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7ae56d7e8d163fb9b73361eb3057d8a7"/>
+		<Material id="1" name="CRN_V_N_Grass_36"/>
+	</StaticMesh>
+	<StaticMesh name="21713" label="Shape009_004">
+		<file path="radtypesremastered_Assets/21713.udsmesh"/>
+		<Size a="5593416.5" x="2040.0" y="57.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e52147b2af53c86e74cff3780069d12"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21714" label="Shape009_005">
+		<file path="radtypesremastered_Assets/21714.udsmesh"/>
+		<Size a="16392208.0" x="2040.0" y="57.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="54f6b1ebaee5a98f45bb40c09bb60398"/>
+		<Material id="1" name="CRN_Material__258"/>
+	</StaticMesh>
+	<StaticMesh name="21715" label="Shape009_006">
+		<file path="radtypesremastered_Assets/21715.udsmesh"/>
+		<Size a="1501000.0" x="200.0" y="10.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f04c947b1d5aa248f3f2924765c59ba3"/>
+		<Material id="1" name="CRN_Material__263"/>
+	</StaticMesh>
+	<StaticMesh name="21716" label="RailClone009_001">
+		<file path="radtypesremastered_Assets/21716.udsmesh"/>
+		<Size a="20040.0" x="12.0" y="4900.0" z="0.00021"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="913b4b1fe24e9e46f6ea45faa034c291"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21717" label="RailClone010_001">
+		<file path="radtypesremastered_Assets/21717.udsmesh"/>
+		<Size a="75375.0" x="765.0" y="5000.0" z="0.000214"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea76096ac3ff1854640480adef2d35ba"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21725" label="Rectangle015_001">
+		<file path="radtypesremastered_Assets/21725.udsmesh"/>
+		<Size a="10079439.0" x="1320.0" y="40.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bb942bcc4721b142b6440093e77040dc"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21726" label="Rectangle015_002">
+		<file path="radtypesremastered_Assets/21726.udsmesh"/>
+		<Size a="10200.0" x="1320.0" y="40.0" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cb6b4c9021f0eba0dcbea049db2f6bd8"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21727" label="Shape008_001">
+		<file path="radtypesremastered_Assets/21727.udsmesh"/>
+		<Size a="1913250.0" x="1320.0" y="5.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cc3a5cfe05513d935ecd1b920480f9c2"/>
+		<Material id="1" name="CRN_V_N_Grass_36"/>
+	</StaticMesh>
+	<StaticMesh name="21728" label="Shape008_002">
+		<file path="radtypesremastered_Assets/21728.udsmesh"/>
+		<Size a="4620216.5" x="1320.0" y="57.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="51552b8df8d876914959f56521d046f8"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21729" label="Shape008_003">
+		<file path="radtypesremastered_Assets/21729.udsmesh"/>
+		<Size a="10373234.0" x="1320.0" y="57.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="83f71cfe3fb6689e903bfae48ae7a5d0"/>
+		<Material id="1" name="CRN_Material__258"/>
+	</StaticMesh>
+	<StaticMesh name="21730" label="RailClone011_001">
+		<file path="radtypesremastered_Assets/21730.udsmesh"/>
+		<Size a="20040.0" x="12.0" y="4900.0" z="0.00021"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="913b4b1fe24e9e46f6ea45faa034c291"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21731" label="RailClone012_001">
+		<file path="radtypesremastered_Assets/21731.udsmesh"/>
+		<Size a="75375.0" x="765.0" y="5000.0" z="0.000214"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ea76096ac3ff1854640480adef2d35ba"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21681" label="RailClone013">
+		<file path="radtypesremastered_Assets/21681.udsmesh"/>
+		<Size a="100239.84375" x="191.610992" y="5039.921875" z="792.918823"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="998b4322b3a7b8de945aee498d9fbe45"/>
+		<Material id="1" name="CRN_V_N_Material_Persian_OTHER_3"/>
+		<Material id="2" name="CRN_V_N_Material_Persian_OTHER_4"/>
+		<Material id="3" name="CRN_V_N_Material_Persian_OTHER_2"/>
+		<Material id="4" name="CRN_Material__2"/>
+	</StaticMesh>
+	<StaticMesh name="21747" label="RailClone011_002">
+		<file path="radtypesremastered_Assets/21747.udsmesh"/>
+		<Size a="39960.0" x="805.729492" y="4900.0" z="0.000212"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e59b151e6af340c597cf28323924b7a3"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21748" label="RailClone012_002">
+		<file path="radtypesremastered_Assets/21748.udsmesh"/>
+		<Size a="186750.375" x="1558.729492" y="5000.0" z="4.638391"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="48a78058fb610437763b74f1c0d7d37b"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21749" label="RailClone014">
+		<file path="radtypesremastered_Assets/21749.udsmesh"/>
+		<Size a="100239.84375" x="191.610992" y="5039.921875" z="792.918823"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="452cc98ce2c4fd4fbe4df74db498a210"/>
+		<Material id="1" name="CRN_V_N_Material_Persian_OTHER_3"/>
+		<Material id="2" name="CRN_V_N_Material_Persian_OTHER_4"/>
+		<Material id="3" name="CRN_V_N_Material_Persian_OTHER_2"/>
+		<Material id="4" name="CRN_Material__2"/>
+	</StaticMesh>
+	<StaticMesh name="21750" label="Rectangle015_003">
+		<file path="radtypesremastered_Assets/21750.udsmesh"/>
+		<Size a="15221229.0" x="2113.728516" y="40.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="75f6a129d57b875745d2e845229f107b"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21751" label="Rectangle015_004">
+		<file path="radtypesremastered_Assets/21751.udsmesh"/>
+		<Size a="27137.285156" x="2113.728516" y="40.0" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c1f7319d49355669e19c85ef3ea02ec1"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21752" label="Shape008_004">
+		<file path="radtypesremastered_Assets/21752.udsmesh"/>
+		<Size a="1913250.0" x="2113.728516" y="5.000008" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e0c4f42664745b350076027747926c8c"/>
+		<Material id="1" name="CRN_V_N_Grass_36"/>
+	</StaticMesh>
+	<StaticMesh name="21753" label="Shape008_005">
+		<file path="radtypesremastered_Assets/21753.udsmesh"/>
+		<Size a="4251639.0" x="2113.728516" y="57.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1852a215cd4acc518364b133346d7dfb"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21754" label="Shape008_006">
+		<file path="radtypesremastered_Assets/21754.udsmesh"/>
+		<Size a="12057970.0" x="2113.728516" y="57.0" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="54e713aed1d30b462a1bac4235a70468"/>
+		<Material id="1" name="CRN_Material__258"/>
+	</StaticMesh>
+	<StaticMesh name="21755" label="RailClone015">
+		<file path="radtypesremastered_Assets/21755.udsmesh"/>
+		<Size a="100239.84375" x="191.610992" y="5039.921875" z="792.918823"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="452cc98ce2c4fd4fbe4df74db498a210"/>
+		<Material id="1" name="CRN_V_N_Material_Persian_OTHER_3"/>
+		<Material id="2" name="CRN_V_N_Material_Persian_OTHER_4"/>
+		<Material id="3" name="CRN_V_N_Material_Persian_OTHER_2"/>
+		<Material id="4" name="CRN_Material__2"/>
+	</StaticMesh>
+	<StaticMesh name="21756" label="RailClone016">
+		<file path="radtypesremastered_Assets/21756.udsmesh"/>
+		<Size a="252615.984375" x="2166.800537" y="5039.922852" z="792.918823"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2df4f94a4c890bccd7093e3191bca70e"/>
+		<Material id="1" name="CRN_V_N_Material_Persian_OTHER_3"/>
+		<Material id="2" name="CRN_V_N_Material_Persian_OTHER_4"/>
+		<Material id="3" name="CRN_V_N_Material_Persian_OTHER_2"/>
+		<Material id="4" name="CRN_Material__2"/>
+	</StaticMesh>
+	<StaticMesh name="21757" label="RailClone009_002">
+		<file path="radtypesremastered_Assets/21757.udsmesh"/>
+		<Size a="39960.0" x="805.225586" y="4900.0" z="0.000216"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="940b0b48dc0001d788fc528d90183d9c"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21758" label="RailClone010_002">
+		<file path="radtypesremastered_Assets/21758.udsmesh"/>
+		<Size a="186749.625" x="1558.225586" y="5000.0" z="0.000219"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="db634739b45e76ad7de8f3161ccd7f08"/>
+		<Material id="1" name="CRN_Material__398"/>
+	</StaticMesh>
+	<StaticMesh name="21759" label="Rectangle009_003">
+		<file path="radtypesremastered_Assets/21759.udsmesh"/>
+		<Size a="22072632.0" x="2833.224609" y="40.000031" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a30632d504501b0000d7274a1e6a35a2"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21760" label="Rectangle009_004">
+		<file path="radtypesremastered_Assets/21760.udsmesh"/>
+		<Size a="37332.246094" x="2833.224609" y="40.0" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="068c32b550fb0739c16f9a2d599418c2"/>
+		<Material id="1" name="CRN_V_N_Materials_Ground15"/>
+	</StaticMesh>
+	<StaticMesh name="21761" label="Shape009_007">
+		<file path="radtypesremastered_Assets/21761.udsmesh"/>
+		<Size a="887302.625" x="2833.224609" y="10.000031" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="dfd2be793ba22c2eeaf76748e52b224e"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21762" label="Shape009_008">
+		<file path="radtypesremastered_Assets/21762.udsmesh"/>
+		<Size a="2577000.0" x="2813.224609" y="10.000031" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e40522848492f1c728b9ad6a620c4faa"/>
+		<Material id="1" name="CRN_black_and_white_pavement_25_69_diffuse"/>
+	</StaticMesh>
+	<StaticMesh name="21763" label="Shape009_009">
+		<file path="radtypesremastered_Assets/21763.udsmesh"/>
+		<Size a="3789000.0" x="2413.224609" y="5.000031" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="367d3dbf33eb586956133fbecdb9c083"/>
+		<Material id="1" name="CRN_V_N_Grass_36"/>
+	</StaticMesh>
+	<StaticMesh name="21764" label="Shape009_010">
+		<file path="radtypesremastered_Assets/21764.udsmesh"/>
+		<Size a="3529298.75" x="2833.224609" y="57.000031" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="735f911525b81dd2b0126f3036ed65b5"/>
+		<Material id="1" name="CRN_Material__259"/>
+	</StaticMesh>
+	<StaticMesh name="21765" label="Shape009_011">
+		<file path="radtypesremastered_Assets/21765.udsmesh"/>
+		<Size a="14573412.0" x="2833.224609" y="57.000031" z="5000.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="cd10bed82b053f3608816996035e41f3"/>
+		<Material id="1" name="CRN_Material__258"/>
+	</StaticMesh>
+	<Actor name="21778" label="Group001" layer="0">
+		<Transform tx="2594.172119" ty="2500.000732" tz="378.958832" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 21778" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true">
+			<ActorMesh name="14704" label="RailClone003" layer="0">
+				<mesh name="14704"/>
+				<Transform tx="2035.421143" ty="2500.000732" tz="4.999878" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 14704" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+			<ActorMesh name="21688" label="Shape004_001" layer="0">
+				<mesh name="21688"/>
+				<Transform tx="2594.172119" ty="2499.999756" tz="-0.000748" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21688" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+			<ActorMesh name="21689" label="Shape004_002" layer="0">
+				<mesh name="21689"/>
+				<Transform tx="1684.172119" ty="2499.999756" tz="-0.000748" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21689" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+			<ActorMesh name="21690" label="Shape004_003" layer="0">
+				<mesh name="21690"/>
+				<Transform tx="2594.172119" ty="2499.999756" tz="-0.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21690" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+			<ActorMesh name="21691" label="Shape004_004" layer="0">
+				<mesh name="21691"/>
+				<Transform tx="2594.172119" ty="2499.999756" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21691" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+			<ActorMesh name="21692" label="Shape004_005" layer="0">
+				<mesh name="21692"/>
+				<Transform tx="2594.172119" ty="2499.999756" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21692" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+			<ActorMesh name="21693" label="Shape004_006" layer="0">
+				<mesh name="21693"/>
+				<Transform tx="3504.172119" ty="2499.999756" tz="-0.000748" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21693" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+			<ActorMesh name="21694" label="Rectangle001_001" layer="0">
+				<mesh name="21694"/>
+				<Transform tx="2594.172119" ty="2499.999756" tz="-40.000954" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21694" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+			<ActorMesh name="21695" label="Rectangle001_002" layer="0">
+				<mesh name="21695"/>
+				<Transform tx="2594.172119" ty="0.000001" tz="-40.000214" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21695" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+			<ActorMesh name="21696" label="RailClone002_001" layer="0">
+				<mesh name="21696"/>
+				<Transform tx="2594.172119" ty="2499.999756" tz="12.075897" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21696" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+			<ActorMesh name="21697" label="RailClone001_001" layer="0">
+				<mesh name="21697"/>
+				<Transform tx="2594.172119" ty="2449.999756" tz="17.099792" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21697" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21778" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="21779" label="Group002" layer="0">
+		<Transform tx="0.0" ty="2500.000732" tz="378.958832" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 21779" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true">
+			<ActorMesh name="20572" label="RailClone004" layer="0">
+				<mesh name="20572"/>
+				<Transform tx="-565.128845" ty="2500.000732" tz="4.999878" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 20572" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+			<ActorMesh name="21698" label="Rectangle006_001" layer="0">
+				<mesh name="21698"/>
+				<Transform tx="0.0" ty="2499.999756" tz="-40.000954" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21698" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+			<ActorMesh name="21699" label="Rectangle006_002" layer="0">
+				<mesh name="21699"/>
+				<Transform tx="0.0" ty="0.000001" tz="-40.000214" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21699" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+			<ActorMesh name="21700" label="Shape005_001" layer="0">
+				<mesh name="21700"/>
+				<Transform tx="0.0" ty="2499.999756" tz="-0.000742" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21700" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+			<ActorMesh name="21701" label="Shape005_002" layer="0">
+				<mesh name="21701"/>
+				<Transform tx="0.0" ty="2499.999756" tz="-0.000742" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21701" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+			<ActorMesh name="21702" label="Shape005_003" layer="0">
+				<mesh name="21702"/>
+				<Transform tx="0.0" ty="2499.999756" tz="-0.000742" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21702" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+			<ActorMesh name="21703" label="Shape005_004" layer="0">
+				<mesh name="21703"/>
+				<Transform tx="0.0" ty="2499.999756" tz="-0.000742" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21703" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+			<ActorMesh name="21704" label="Shape005_005" layer="0">
+				<mesh name="21704"/>
+				<Transform tx="0.0" ty="2499.999756" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21704" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+			<ActorMesh name="21705" label="Shape005_006" layer="0">
+				<mesh name="21705"/>
+				<Transform tx="0.0" ty="2499.999756" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21705" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+			<ActorMesh name="21706" label="RailClone007_001" layer="0">
+				<mesh name="21706"/>
+				<Transform tx="0.0" ty="2449.999756" tz="17.099792" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21706" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+			<ActorMesh name="21707" label="RailClone008_001" layer="0">
+				<mesh name="21707"/>
+				<Transform tx="0.0" ty="2499.999756" tz="12.253021" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21707" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21779" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="21780" label="Group003" layer="0">
+		<Transform tx="-2457.770508" ty="2499.813477" tz="387.458588" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 21780" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true">
+			<ActorMesh name="21718" label="Rectangle012_001" layer="0">
+				<mesh name="21718"/>
+				<Transform tx="-2457.770508" ty="2500.0" tz="-40.001171" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21718" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21780" />
+			</ActorMesh>
+			<ActorMesh name="21719" label="Rectangle012_002" layer="0">
+				<mesh name="21719"/>
+				<Transform tx="-2457.770508" ty="0.000001" tz="-40.000458" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21719" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21780" />
+			</ActorMesh>
+			<ActorMesh name="21720" label="Shape006_001" layer="0">
+				<mesh name="21720"/>
+				<Transform tx="-2457.770508" ty="2500.0" tz="-0.00087" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21720" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21780" />
+			</ActorMesh>
+			<ActorMesh name="21721" label="Shape006_002" layer="0">
+				<mesh name="21721"/>
+				<Transform tx="-2457.770508" ty="2500.0" tz="16.99913" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21721" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21780" />
+			</ActorMesh>
+			<ActorMesh name="21722" label="Shape006_003" layer="0">
+				<mesh name="21722"/>
+				<Transform tx="-2457.770508" ty="2500.0" tz="-40.00087" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21722" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21780" />
+			</ActorMesh>
+			<ActorMesh name="21723" label="Shape006_004" layer="0">
+				<mesh name="21723"/>
+				<Transform tx="-2457.770508" ty="2500.0" tz="-40.00087" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21723" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21780" />
+			</ActorMesh>
+			<ActorMesh name="21724" label="Shape006_005" layer="0">
+				<mesh name="21724"/>
+				<Transform tx="-2457.770508" ty="2500.0" tz="-0.00087" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21724" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21780" />
+			</ActorMesh>
+			<ActorMesh name="21099" label="RailClone006" layer="0">
+				<mesh name="21099"/>
+				<Transform tx="-2457.77002" ty="2499.813477" tz="21.999603" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21099" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21780" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="21781" label="Group004" layer="0">
+		<Transform tx="-5211.038574" ty="2500.000732" tz="378.958832" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 21781" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true">
+			<ActorMesh name="21055" label="RailClone005" layer="0">
+				<mesh name="21055"/>
+				<Transform tx="-5743.34375" ty="2500.000732" tz="4.999878" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21055" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+			<ActorMesh name="21708" label="Rectangle009_001" layer="0">
+				<mesh name="21708"/>
+				<Transform tx="-5211.038574" ty="2499.999756" tz="-40.000954" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21708" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+			<ActorMesh name="21709" label="Rectangle009_002" layer="0">
+				<mesh name="21709"/>
+				<Transform tx="-5211.038574" ty="-0.0" tz="-40.000214" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21709" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+			<ActorMesh name="21710" label="Shape009_001" layer="0">
+				<mesh name="21710"/>
+				<Transform tx="-5211.038574" ty="2499.999756" tz="-0.000748" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21710" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+			<ActorMesh name="21711" label="Shape009_002" layer="0">
+				<mesh name="21711"/>
+				<Transform tx="-5211.038574" ty="2499.999756" tz="-0.000748" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21711" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+			<ActorMesh name="21712" label="Shape009_003" layer="0">
+				<mesh name="21712"/>
+				<Transform tx="-5211.038574" ty="2499.999756" tz="-0.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21712" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+			<ActorMesh name="21713" label="Shape009_004" layer="0">
+				<mesh name="21713"/>
+				<Transform tx="-5211.038574" ty="2499.999756" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21713" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+			<ActorMesh name="21714" label="Shape009_005" layer="0">
+				<mesh name="21714"/>
+				<Transform tx="-5211.038574" ty="2499.999756" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21714" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+			<ActorMesh name="21715" label="Shape009_006" layer="0">
+				<mesh name="21715"/>
+				<Transform tx="-4301.038574" ty="2499.999756" tz="-0.000748" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21715" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+			<ActorMesh name="21716" label="RailClone009_001" layer="0">
+				<mesh name="21716"/>
+				<Transform tx="-5211.037598" ty="2449.999756" tz="17.099792" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21716" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+			<ActorMesh name="21717" label="RailClone010_001" layer="0">
+				<mesh name="21717"/>
+				<Transform tx="-5211.037598" ty="2499.999756" tz="12.99939" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21717" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21781" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="21782" label="Group005" layer="0">
+		<Transform tx="-7503.356934" ty="2500.000977" tz="378.958832" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 21782" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true">
+			<ActorMesh name="21725" label="Rectangle015_001" layer="0">
+				<mesh name="21725"/>
+				<Transform tx="-7503.356934" ty="2500.0" tz="-40.000954" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21725" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21782" />
+			</ActorMesh>
+			<ActorMesh name="21726" label="Rectangle015_002" layer="0">
+				<mesh name="21726"/>
+				<Transform tx="-7503.356934" ty="-0.0" tz="-40.000214" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21726" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21782" />
+			</ActorMesh>
+			<ActorMesh name="21727" label="Shape008_001" layer="0">
+				<mesh name="21727"/>
+				<Transform tx="-7503.356934" ty="2500.0" tz="-0.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21727" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21782" />
+			</ActorMesh>
+			<ActorMesh name="21728" label="Shape008_002" layer="0">
+				<mesh name="21728"/>
+				<Transform tx="-7503.356934" ty="2500.0" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21728" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21782" />
+			</ActorMesh>
+			<ActorMesh name="21729" label="Shape008_003" layer="0">
+				<mesh name="21729"/>
+				<Transform tx="-7503.356934" ty="2500.0" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21729" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21782" />
+			</ActorMesh>
+			<ActorMesh name="21730" label="RailClone011_001" layer="0">
+				<mesh name="21730"/>
+				<Transform tx="-7503.356934" ty="2450.0" tz="17.099792" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21730" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21782" />
+			</ActorMesh>
+			<ActorMesh name="21731" label="RailClone012_001" layer="0">
+				<mesh name="21731"/>
+				<Transform tx="-7503.356934" ty="2500.0" tz="12.469727" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21731" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21782" />
+			</ActorMesh>
+			<ActorMesh name="21681" label="RailClone013" layer="0">
+				<mesh name="21681"/>
+				<Transform tx="-7977.712891" ty="2500.000977" tz="4.999878" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21681" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21782" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="21783" label="Group006" layer="0">
+		<Transform tx="-9906.016602" ty="2500.000977" tz="378.958832" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 21783" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true">
+			<ActorMesh name="21747" label="RailClone011_002" layer="0">
+				<mesh name="21747"/>
+				<Transform tx="-9906.016602" ty="2450.0" tz="17.099792" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21747" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21783" />
+			</ActorMesh>
+			<ActorMesh name="21748" label="RailClone012_002" layer="0">
+				<mesh name="21748"/>
+				<Transform tx="-9906.016602" ty="2500.0" tz="12.469727" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21748" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21783" />
+			</ActorMesh>
+			<ActorMesh name="21749" label="RailClone014" layer="0">
+				<mesh name="21749"/>
+				<Transform tx="-10776.770508" ty="2500.000977" tz="4.999878" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21749" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21783" />
+			</ActorMesh>
+			<ActorMesh name="21750" label="Rectangle015_003" layer="0">
+				<mesh name="21750"/>
+				<Transform tx="-9906.016602" ty="2500.0" tz="-40.000954" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21750" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21783" />
+			</ActorMesh>
+			<ActorMesh name="21751" label="Rectangle015_004" layer="0">
+				<mesh name="21751"/>
+				<Transform tx="-9906.016602" ty="0.000001" tz="-40.000214" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21751" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21783" />
+			</ActorMesh>
+			<ActorMesh name="21752" label="Shape008_004" layer="0">
+				<mesh name="21752"/>
+				<Transform tx="-9906.016602" ty="2500.0" tz="-0.000732" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21752" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21783" />
+			</ActorMesh>
+			<ActorMesh name="21753" label="Shape008_005" layer="0">
+				<mesh name="21753"/>
+				<Transform tx="-9906.016602" ty="2500.0" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21753" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21783" />
+			</ActorMesh>
+			<ActorMesh name="21754" label="Shape008_006" layer="0">
+				<mesh name="21754"/>
+				<Transform tx="-9906.016602" ty="2500.0" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21754" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21783" />
+			</ActorMesh>
+			<ActorMesh name="21755" label="RailClone015" layer="0">
+				<mesh name="21755"/>
+				<Transform tx="-9031.895508" ty="2500.000977" tz="4.999878" sx="-1.0" sy="-1.0" sz="-1.0" qx="1.0" qy="0.0" qz="0.0" qw="-0.0" qhex="0000803F00000080000000802EBD3BB3"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21755" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21783" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Actor name="21784" label="Group007" layer="0">
+		<Transform tx="-12806.852539" ty="2500.000488" tz="378.958801" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000008000000000000000800000803F"/>
+		<tag value="Max.superclassof: helper" />
+		<tag value="Max.classof: Dummy" />
+		<tag value="Max.handle: 21784" />
+		<tag value="Max.isGroupHead: true" />
+		<tag value="Max.isGroupMember: false" />
+		<tag value="Max.parent.handle: 0" />
+		<children visible="true">
+			<ActorMesh name="21756" label="RailClone016" layer="0">
+				<mesh name="21756"/>
+				<Transform tx="-12806.852539" ty="2500.000488" tz="4.999878" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21756" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21784" />
+			</ActorMesh>
+			<ActorMesh name="21757" label="RailClone009_002" layer="0">
+				<mesh name="21757"/>
+				<Transform tx="-12806.853516" ty="2450.0" tz="17.099792" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21757" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21784" />
+			</ActorMesh>
+			<ActorMesh name="21758" label="RailClone010_002" layer="0">
+				<mesh name="21758"/>
+				<Transform tx="-12806.853516" ty="2500.0" tz="12.99939" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21758" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21784" />
+			</ActorMesh>
+			<ActorMesh name="21759" label="Rectangle009_003" layer="0">
+				<mesh name="21759"/>
+				<Transform tx="-12806.852539" ty="2500.0" tz="-40.000954" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21759" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21784" />
+			</ActorMesh>
+			<ActorMesh name="21760" label="Rectangle009_004" layer="0">
+				<mesh name="21760"/>
+				<Transform tx="-12806.852539" ty="-0.0" tz="-40.000214" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21760" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21784" />
+			</ActorMesh>
+			<ActorMesh name="21761" label="Shape009_007" layer="0">
+				<mesh name="21761"/>
+				<Transform tx="-12806.852539" ty="2500.0" tz="-0.000748" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21761" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21784" />
+			</ActorMesh>
+			<ActorMesh name="21762" label="Shape009_008" layer="0">
+				<mesh name="21762"/>
+				<Transform tx="-12806.852539" ty="2500.0" tz="-0.000748" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21762" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21784" />
+			</ActorMesh>
+			<ActorMesh name="21763" label="Shape009_009" layer="0">
+				<mesh name="21763"/>
+				<Transform tx="-12806.852539" ty="2500.0" tz="-0.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21763" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21784" />
+			</ActorMesh>
+			<ActorMesh name="21764" label="Shape009_010" layer="0">
+				<mesh name="21764"/>
+				<Transform tx="-12806.852539" ty="2500.0" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21764" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21784" />
+			</ActorMesh>
+			<ActorMesh name="21765" label="Shape009_011" layer="0">
+				<mesh name="21765"/>
+				<Transform tx="-12806.852539" ty="2500.0" tz="-40.00074" sx="1.0" sy="1.0" sz="1.0" qx="-0.707107" qy="0.0" qz="0.0" qw="0.707107" qhex="F40435BF0000000000000000F204353F"/>
+				<tag value="Max.superclassof: GeometryClass" />
+				<tag value="Max.classof: Editable_Poly" />
+				<tag value="Max.handle: 21765" />
+				<tag value="Max.isGroupHead: false" />
+				<tag value="Max.isGroupMember: true" />
+				<tag value="Max.parent.handle: 21784" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="bd636add7b95_2_2_Tex" label="bd636add7b95_2_2_Tex" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="radtypesremastered_Assets/bd636add7b95.jpg">
+		<Hash value="1c9077cc0f8c14091a5ae9f358a663c3"/>
+	</Texture>
+	<Texture name="black_and_white_pavement_25_69_diffuse_2_2_Tex" label="black_and_white_pavement_25_69_diffuse_2_2_Tex" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="radtypesremastered_Assets/black_and_white_pavement_25_69_diffuse.jpg">
+		<Hash value="cb29d9e3ed7e0baa39b1d3f5b809672f"/>
+	</Texture>
+	<Texture name="GrassHR1_2_2_Tex" label="GrassHR1_2_2_Tex" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="radtypesremastered_Assets/GrassHR1.jpg">
+		<Hash value="1ff84ac44ceda5cd771ce414fb66596f"/>
+	</Texture>
+	<Texture name="ASPHALT3_2_2_Tex" label="ASPHALT3_2_2_Tex" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="radtypesremastered_Assets/ASPHALT3.JPG">
+		<Hash value="b7d2c238d4aeb343d20d4a30a304a492"/>
+	</Texture>
+	<Texture name="conrete_pavement_pathway_25_94_diffuse_2_2_Tex" label="conrete_pavement_pathway_25_94_diffuse_2_2_Tex" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="radtypesremastered_Assets/conrete_pavement_pathway_25_94_diffuse.jpg">
+		<Hash value="514d078edc0d3a644d8b459107f93504"/>
+	</Texture>
+	<Texture name="asphaltcloseups0065_l_2_2_Tex" label="asphaltcloseups0065_l_2_2_Tex" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="radtypesremastered_Assets/asphaltcloseups0065_l.jpg">
+		<Hash value="8cdae7c8900ac6362b8a1ba9c8fb2acd"/>
+	</Texture>
+	<Texture name="asphaltcloseups0065_lbump2_2_2_Tex" label="asphaltcloseups0065_lbump2_2_2_Tex" texturemode="1" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="radtypesremastered_Assets/asphaltcloseups0065_lbump2.jpg">
+		<Hash value="1c9655c32e7516bc69e9b7d5deb1ed0d"/>
+	</Texture>
+	<Texture name="sfiubccb_2K_Albedo_2_2_Tex" label="sfiubccb_2K_Albedo_2_2_Tex" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="1.000000" srgb="0" file="radtypesremastered_Assets/sfiubccb_2K_Albedo.jpg">
+		<Hash value="3bda4e8818fd5998fbdda0a76d0e1474"/>
+	</Texture>
+	<UEPbrMaterial name="CRN_V_N_Material_Persian_OTHER_3">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+			<Scalar Name="Glossiness" constant="0.335714"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.784314,G=0.784314,B=0.784314,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.78"/>
+			<Multiply Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="5" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="7" OutputIndex="0"/>
+		<Input Name="Metallic" expression="7" OutputIndex="1"/>
+		<Input Name="Roughness" expression="2" OutputIndex="0"/>
+		<Input Name="Specular" expression="7" OutputIndex="2"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_V_N_Material_Persian_OTHER_4">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.960784,G=0.960784,B=0.960784,A=1.000000)"/>
+			<Scalar Name="Glossiness" constant="0.414286"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.078431,G=0.078431,B=0.078431,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.07"/>
+			<Multiply Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="5" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="Opacity" constant="0.8"/>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="8" OutputIndex="0"/>
+		<Input Name="Metallic" expression="8" OutputIndex="1"/>
+		<Input Name="Roughness" expression="2" OutputIndex="0"/>
+		<Input Name="Specular" expression="8" OutputIndex="2"/>
+		<Input Name="Opacity" expression="7" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_V_N_Material_Persian_OTHER_2">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.086275,G=0.086275,B=0.086275,A=1.000000)"/>
+			<Scalar Name="Glossiness" constant="0.65"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.960784,G=0.960784,B=0.960784,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.96"/>
+			<Multiply Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="5" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="7" OutputIndex="0"/>
+		<Input Name="Metallic" expression="7" OutputIndex="1"/>
+		<Input Name="Roughness" expression="2" OutputIndex="0"/>
+		<Input Name="Specular" expression="7" OutputIndex="2"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_Material__2">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.533333,G=0.533333,B=0.533333,A=1.000000)"/>
+			<Scalar Name="Glossiness" constant="0.714286"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.0"/>
+			<Multiply Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="5" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="7" OutputIndex="0"/>
+		<Input Name="Metallic" expression="7" OutputIndex="1"/>
+		<Input Name="Roughness" expression="2" OutputIndex="0"/>
+		<Input Name="Specular" expression="7" OutputIndex="2"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_Material__259">
+		<Expressions>
+			<Texture Name="" PathName="bd636add7b95_2_2_Tex">
+			</Texture>
+			<Scalar Name="Glossiness" constant="0.714286"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.0"/>
+			<Multiply Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="5" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="7" OutputIndex="0"/>
+		<Input Name="Metallic" expression="7" OutputIndex="1"/>
+		<Input Name="Roughness" expression="2" OutputIndex="0"/>
+		<Input Name="Specular" expression="7" OutputIndex="2"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_black_and_white_pavement_25_69_diffuse">
+		<Expressions>
+			<Texture Name="" PathName="black_and_white_pavement_25_69_diffuse_2_2_Tex">
+			</Texture>
+			<Scalar Name="Glossiness" constant="0.714286"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.0"/>
+			<Multiply Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="5" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="7" OutputIndex="0"/>
+		<Input Name="Metallic" expression="7" OutputIndex="1"/>
+		<Input Name="Roughness" expression="2" OutputIndex="0"/>
+		<Input Name="Specular" expression="7" OutputIndex="2"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_V_N_Grass_36">
+		<Expressions>
+			<Texture Name="" PathName="GrassHR1_2_2_Tex">
+				<Input Name="Coordinates" expression="2" OutputIndex="0"/>
+			</Texture>
+			<TextureCoordinate Index="0" UTiling="0.5" VTiling="0.5"/>
+			<FunctionCall Function="/DatasmithContent/Materials/UVEdit.UVEdit">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+				<Input Name="1" expression="7" OutputIndex="0"/>
+				<Input Name="2" expression="5" OutputIndex="0"/>
+				<Input Name="3" expression="3" OutputIndex="0"/>
+				<Input Name="4" expression="4" OutputIndex="0"/>
+				<Input Name="7" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+			<Bool Name="Mirror_U" constant="false"/>
+			<Bool Name="Mirror_V" constant="false"/>
+			<Color Name="UV_Tiling" constant="(R=1.000000,G=1.000000,B=0.000000,A=1.000000)"/>
+			<Color Name="UV_Offset" constant="(R=0.250000,G=0.250000,B=0.000000,A=1.000000)"/>
+			<Color Name="Tiling_Pivot" constant="(R=0.000000,G=0.500000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Glossiness" constant="0.485714"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="8" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.337255,G=0.337255,B=0.337255,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.33"/>
+			<Multiply Name="">
+				<Input Name="0" expression="11" OutputIndex="0"/>
+				<Input Name="1" expression="8" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="10" OutputIndex="0"/>
+				<Input Name="1" expression="12" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="13" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="14" OutputIndex="0"/>
+		<Input Name="Metallic" expression="14" OutputIndex="1"/>
+		<Input Name="Roughness" expression="9" OutputIndex="0"/>
+		<Input Name="Specular" expression="14" OutputIndex="2"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_Material__258">
+		<Expressions>
+			<Texture Name="" PathName="ASPHALT3_2_2_Tex">
+			</Texture>
+			<Scalar Name="Glossiness" constant="0.714286"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.0"/>
+			<Multiply Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="5" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="7" OutputIndex="0"/>
+		<Input Name="Metallic" expression="7" OutputIndex="1"/>
+		<Input Name="Roughness" expression="2" OutputIndex="0"/>
+		<Input Name="Specular" expression="7" OutputIndex="2"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_Material__263">
+		<Expressions>
+			<Texture Name="" PathName="conrete_pavement_pathway_25_94_diffuse_2_2_Tex">
+				<Input Name="Coordinates" expression="1" OutputIndex="0"/>
+			</Texture>
+			<FunctionCall Function="/DatasmithContent/Materials/UVEdit.UVEdit">
+				<Input Name="0" expression="9" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+				<Input Name="2" expression="4" OutputIndex="0"/>
+				<Input Name="3" expression="2" OutputIndex="0"/>
+				<Input Name="4" expression="3" OutputIndex="0"/>
+				<Input Name="5" expression="8" OutputIndex="0"/>
+				<Input Name="6" expression="7" OutputIndex="0"/>
+				<Input Name="7" expression="5" OutputIndex="0"/>
+			</FunctionCall>
+			<Bool Name="Mirror_U" constant="false"/>
+			<Bool Name="Mirror_V" constant="false"/>
+			<Color Name="UV_Tiling" constant="(R=1.000000,G=1.000000,B=0.000000,A=1.000000)"/>
+			<Color Name="UV_Offset" constant="(R=0.290000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Color Name="Tiling_Pivot" constant="(R=0.000000,G=0.500000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="W_Rotation" constant="-0.25"/>
+			<Color Name="Rotation_Pivot" constant="(R=0.000000,G=1.000000,B=0.000000,A=1.000000)"/>
+			<TextureCoordinate Index="0" UTiling="1.0" VTiling="1.0"/>
+			<Scalar Name="Glossiness" constant="0.714286"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="10" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.0"/>
+			<Multiply Name="">
+				<Input Name="0" expression="13" OutputIndex="0"/>
+				<Input Name="1" expression="10" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="12" OutputIndex="0"/>
+				<Input Name="1" expression="14" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="15" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="16" OutputIndex="0"/>
+		<Input Name="Metallic" expression="16" OutputIndex="1"/>
+		<Input Name="Roughness" expression="11" OutputIndex="0"/>
+		<Input Name="Specular" expression="16" OutputIndex="2"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_V_N_Materials_Ground15">
+		<Expressions>
+			<Texture Name="" PathName="asphaltcloseups0065_l_2_2_Tex">
+				<Input Name="Coordinates" expression="2" OutputIndex="0"/>
+			</Texture>
+			<TextureCoordinate Index="0" UTiling="0.5" VTiling="0.5"/>
+			<FunctionCall Function="/DatasmithContent/Materials/UVEdit.UVEdit">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+				<Input Name="1" expression="7" OutputIndex="0"/>
+				<Input Name="2" expression="5" OutputIndex="0"/>
+				<Input Name="3" expression="3" OutputIndex="0"/>
+				<Input Name="4" expression="4" OutputIndex="0"/>
+				<Input Name="7" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+			<Bool Name="Mirror_U" constant="false"/>
+			<Bool Name="Mirror_V" constant="false"/>
+			<Color Name="UV_Tiling" constant="(R=1.000000,G=1.000000,B=0.000000,A=1.000000)"/>
+			<Color Name="UV_Offset" constant="(R=0.250000,G=0.250000,B=0.000000,A=1.000000)"/>
+			<Color Name="Tiling_Pivot" constant="(R=0.000000,G=0.500000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Glossiness" constant="0.714286"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="8" OutputIndex="0"/>
+			</OneMinus>
+			<VertexNormalWS Name="">
+			</VertexNormalWS>
+			<Fresnel Name="">
+				<Input Name="2" expression="10" OutputIndex="0"/>
+			</Fresnel>
+			<Color Name="Falloff_Front" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Texture Name="" PathName="asphaltcloseups0065_lbump2_2_2_Tex">
+				<Input Name="Coordinates" expression="15" OutputIndex="0"/>
+			</Texture>
+			<TextureCoordinate Index="0" UTiling="0.5" VTiling="0.5"/>
+			<FunctionCall Function="/DatasmithContent/Materials/UVEdit.UVEdit">
+				<Input Name="0" expression="14" OutputIndex="0"/>
+				<Input Name="1" expression="20" OutputIndex="0"/>
+				<Input Name="2" expression="18" OutputIndex="0"/>
+				<Input Name="3" expression="16" OutputIndex="0"/>
+				<Input Name="4" expression="17" OutputIndex="0"/>
+				<Input Name="7" expression="19" OutputIndex="0"/>
+			</FunctionCall>
+			<Bool Name="Mirror_U" constant="false"/>
+			<Bool Name="Mirror_V" constant="false"/>
+			<Color Name="UV_Tiling" constant="(R=1.000000,G=1.000000,B=0.000000,A=1.000000)"/>
+			<Color Name="UV_Offset" constant="(R=0.250000,G=0.250000,B=0.000000,A=1.000000)"/>
+			<Color Name="Tiling_Pivot" constant="(R=0.000000,G=0.500000,B=0.000000,A=1.000000)"/>
+			<LinearInterpolate Name="Specular">
+				<Input Name="0" expression="12" OutputIndex="0"/>
+				<Input Name="1" expression="13" OutputIndex="0"/>
+				<Input Name="2" expression="11" OutputIndex="0"/>
+			</LinearInterpolate>
+			<Scalar Name="Specular_Level" constant="0.0"/>
+			<Multiply Name="">
+				<Input Name="0" expression="22" OutputIndex="0"/>
+				<Input Name="1" expression="8" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="21" OutputIndex="0"/>
+				<Input Name="1" expression="23" OutputIndex="0"/>
+			</Multiply>
+			<TextureObjectParameter Name="Bump_Map">
+				<KeyValueProperty name="Texture" type="Texture" val="asphaltcloseups0065_l_2_2_Tex"/>
+			</TextureObjectParameter>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.NormalFromHeightmap">
+				<Input Name="0" expression="25" OutputIndex="0"/>
+				<Input Name="2" expression="27" OutputIndex="0"/>
+				<Input Name="3" expression="29" OutputIndex="0"/>
+			</FunctionCall>
+			<Scalar Name="" constant="0.001"/>
+			<TextureCoordinate Index="0" UTiling="0.5" VTiling="0.5"/>
+			<FunctionCall Function="/DatasmithContent/Materials/UVEdit.UVEdit">
+				<Input Name="0" expression="28" OutputIndex="0"/>
+				<Input Name="1" expression="34" OutputIndex="0"/>
+				<Input Name="2" expression="32" OutputIndex="0"/>
+				<Input Name="3" expression="30" OutputIndex="0"/>
+				<Input Name="4" expression="31" OutputIndex="0"/>
+				<Input Name="7" expression="33" OutputIndex="0"/>
+			</FunctionCall>
+			<Bool Name="Mirror_U" constant="false"/>
+			<Bool Name="Mirror_V" constant="false"/>
+			<Color Name="UV_Tiling" constant="(R=1.000000,G=1.000000,B=0.000000,A=1.000000)"/>
+			<Color Name="UV_Offset" constant="(R=0.250000,G=0.250000,B=0.000000,A=1.000000)"/>
+			<Color Name="Tiling_Pivot" constant="(R=0.000000,G=0.500000,B=0.000000,A=1.000000)"/>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.BreakOutFloat3Components">
+				<Input Name="0" expression="26" OutputIndex="0"/>
+			</FunctionCall>
+			<Multiply Name="">
+				<Input Name="0" expression="35" OutputIndex="0"/>
+				<Input Name="1" expression="37" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="Normal_Intensity" constant="1.05"/>
+			<Multiply Name="">
+				<Input Name="0" expression="35" OutputIndex="1"/>
+				<Input Name="1" expression="37" OutputIndex="0"/>
+			</Multiply>
+			<AppendVector Name="">
+				<Input Name="0" expression="36" OutputIndex="0"/>
+				<Input Name="1" expression="38" OutputIndex="0"/>
+			</AppendVector>
+			<DotProduct Name="">
+				<Input Name="0" expression="39" OutputIndex="0"/>
+				<Input Name="1" expression="39" OutputIndex="0"/>
+			</DotProduct>
+			<OneMinus Name="">
+				<Input Name="0" expression="40" OutputIndex="0"/>
+			</OneMinus>
+			<Saturate Name="">
+				<Input Name="0" expression="41" OutputIndex="0"/>
+			</Saturate>
+			<SquareRoot Name="">
+				<Input Name="0" expression="42" OutputIndex="0"/>
+			</SquareRoot>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.MakeFloat3">
+				<Input Name="0" expression="36" OutputIndex="0"/>
+				<Input Name="1" expression="38" OutputIndex="0"/>
+				<Input Name="2" expression="43" OutputIndex="0"/>
+			</FunctionCall>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="24" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="45" OutputIndex="0"/>
+		<Input Name="Metallic" expression="45" OutputIndex="1"/>
+		<Input Name="Roughness" expression="9" OutputIndex="0"/>
+		<Input Name="Specular" expression="45" OutputIndex="2"/>
+		<Input Name="Normal" expression="44" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_Material__398">
+		<Expressions>
+			<Color Name="Diffuse_Color" constant="(R=0.960784,G=0.960784,B=0.960784,A=1.000000)"/>
+			<Scalar Name="Glossiness" constant="0.414286"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.078431,G=0.078431,B=0.078431,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.07"/>
+			<Multiply Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="5" OutputIndex="0"/>
+			</Multiply>
+			<Scalar Name="Opacity" constant="0.8"/>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="8" OutputIndex="0"/>
+		<Input Name="Metallic" expression="8" OutputIndex="1"/>
+		<Input Name="Roughness" expression="2" OutputIndex="0"/>
+		<Input Name="Specular" expression="8" OutputIndex="2"/>
+		<Input Name="Opacity" expression="7" OutputIndex="0"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="CRN_sfiubccb_2K_Albedo">
+		<Expressions>
+			<Texture Name="" PathName="sfiubccb_2K_Albedo_2_2_Tex">
+			</Texture>
+			<Scalar Name="Glossiness" constant="0.714286"/>
+			<OneMinus Name="">
+				<Input Name="0" expression="1" OutputIndex="0"/>
+			</OneMinus>
+			<Color Name="Specular" constant="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+			<Scalar Name="Specular_Level" constant="0.0"/>
+			<Multiply Name="">
+				<Input Name="0" expression="4" OutputIndex="0"/>
+				<Input Name="1" expression="1" OutputIndex="0"/>
+			</Multiply>
+			<Multiply Name="">
+				<Input Name="0" expression="3" OutputIndex="0"/>
+				<Input Name="1" expression="5" OutputIndex="0"/>
+			</Multiply>
+			<FunctionCall Function="/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec">
+				<Input Name="0" expression="0" OutputIndex="0"/>
+				<Input Name="1" expression="6" OutputIndex="0"/>
+			</FunctionCall>
+		</Expressions>
+		<Input Name="BaseColor" expression="7" OutputIndex="0"/>
+		<Input Name="Metallic" expression="7" OutputIndex="1"/>
+		<Input Name="Roughness" expression="2" OutputIndex="0"/>
+		<Input Name="Specular" expression="7" OutputIndex="2"/>
+		<TwoSided enabled="1"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
